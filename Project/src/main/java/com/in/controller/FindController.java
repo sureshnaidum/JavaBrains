@@ -6,4 +6,9 @@ public class FindController {
 	public String getRestarants(String id) {
 		return "Kruthing";
 	}
+	
+	private void findRestarants() {
+		// TODO Auto-generated method stub
+
+	}
 }
